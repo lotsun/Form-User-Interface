@@ -1,1 +1,1 @@
-# CSS practice 5 - Subscribe UI
+# CSS practice 5 Subscribe UI
